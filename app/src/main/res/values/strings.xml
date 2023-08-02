@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MyFirstApp2023</string>
     <string name="title">Knight</string>
-    <string name="artist">Kelvin</string>
+     <string name="artist">Kelvin O\'Keeffe</string>
     <string name="source">Source: Game Sprites/Player</string>
 </resources>
